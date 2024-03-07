@@ -1,0 +1,54 @@
+
+html{
+    background-image: url(Imagen\ de\ WhatsApp\ 2024-02-12\ a\ las\ 10.55.13_d865404d.jpg);  
+}
+header {
+    background-color: #BBBBBB;
+    padding: 20px 0;
+}
+nav{
+    position: absolute;
+    top:110px;
+    right: 0;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: #c78c19;
+    text-decoration: underline;
+}
+img{
+  width: 5%;
+  padding: 30px;
+}
+
+main {
+    background-color: #14abde;
+    margin: 70px;
+    padding: 50px;
+    text-align: center;
+    
+    
+}
+main:hover{
+   transform: scale(1.1);
+   transition-duration: 2s;
+   background-color: #000000;
+   color:white;
+   margin: 150px;
+}
+
+
+
